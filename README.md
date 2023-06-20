@@ -21,7 +21,7 @@ If you are looking for a dedicated team player with a passion for continuous lea
 
 
 
-# Languages and Tools
+## Languages and Tools
 Python SQL TensorFlow, AWS, JupyterLab, HTML, CSS, scikit-learn, TensorFlow, Keras, Pandas, OpenCV, Matplotlib, Seaborn
 
 
