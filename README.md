@@ -1,13 +1,13 @@
 # hattwich
 about me
 
-female_student I have Master's degree in speech sciences
+I have Master's degree in speech sciences
 
-bar_chart I am a Junior Data Engineer and Data Scientist
+I am a Junior Data Engineer and Data Scientist
 
-fireworks I love trees, woods and nature
+I love trees, woods and nature
 
-# more detail?
+## more detail?
 As a self-employed communication specialist holding a Master of Arts in Speech Science and coach for over a decade, I have witnessed the transformative power of effective communication. My journey has taken me from coaching individuals and groups to improve their communication skills, to lecturing at universities and working with theaters across Europe.
 
 Throughout my career, I've had the privilege of helping 80+ clients achieve their goals by employing analytical approaches and designing tailored coaching programs. It has been incredibly fulfilling to witness the growth and success of individuals and groups as they unlock their potential in communication. However, as the world went through the challenges of the pandemic and many theatres closed, I suddenly had time on my hands:
