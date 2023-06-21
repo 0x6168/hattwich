@@ -1,11 +1,15 @@
-# hattwich
-about me
 
-I have Master's degree in speech sciences
+# about me
 
 I am a Junior Data Engineer and Data Scientist
+I have Master's degree in speech sciences
+I love trees
 
-I love trees, woods and nature
+
+
+<h2> 🚀 &nbsp;Languages and Tools</h2>
+
+Python SQL TensorFlow, AWS, JupyterLab, HTML, CSS, scikit-learn, TensorFlow, Keras, Pandas, OpenCV, Matplotlib, Seaborn
 
 ## more detail?
 As a self-employed communication specialist holding a Master of Arts in Speech Science and coach for over a decade, I have witnessed the transformative power of effective communication. My journey has taken me from coaching individuals and groups to improve their communication skills, to lecturing at universities and working with theaters across Europe.
@@ -19,9 +23,5 @@ I am keen to work in a collaborative team environment where I can further develo
 
 If you are looking for a dedicated team player with a passion for continuous learning and a collaborative mindset, I would love to contribute to your organization!
 
-
-
-## Languages and Tools
-Python SQL TensorFlow, AWS, JupyterLab, HTML, CSS, scikit-learn, TensorFlow, Keras, Pandas, OpenCV, Matplotlib, Seaborn
 
 
