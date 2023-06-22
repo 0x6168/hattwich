@@ -10,7 +10,7 @@ I love trees
 
 <h2> 🚀 &nbsp;Languages and Tools</h2>
 
-Python SQL TensorFlow, AWS, JupyterLab, HTML, CSS, scikit-learn, TensorFlow, Keras, Pandas, OpenCV, Matplotlib, Seaborn
+Python, SQL, TensorFlow, AWS, JupyterLab, HTML, CSS, scikit-learn, TensorFlow, Keras, Pandas, OpenCV, Matplotlib, Seaborn
 
 
 
