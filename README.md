@@ -1,7 +1,7 @@
 
 # about me
 
-I am a Junior Data Engineer and Data Scientist. I have Master's degree in speech sciences. I love trees
+I am a Junior Data Engineer and Data Scientist. I have Master's degree in speech sciences. I love trees.
 
 
 
